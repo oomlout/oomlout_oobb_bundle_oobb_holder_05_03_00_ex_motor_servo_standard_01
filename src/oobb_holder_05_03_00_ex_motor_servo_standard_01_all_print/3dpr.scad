@@ -1,4 +1,4 @@
-$fn = 5;
+$fn = 50;
 
 
 difference() {
