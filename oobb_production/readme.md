@@ -6,4 +6,3 @@ OOBB Holder For a Standard Servo (5x3)
 * ![image](images/3dpr_2_140.png) 3dpr_2.stl  - Top - Top spacer piece  
 * ![image](images/3dpr_3_140.png) 3dpr_3.stl  - Adapter - Adapter from OOBB to a servo horn  
 * ![image](images/3dpr_4_140.png) 3dpr_4.stl  - Bearing - Holder for the 6705 bearing  
-* ![image](images/3dpr_all_140.png) 3dpr_all.stl  - All - All pieces together  

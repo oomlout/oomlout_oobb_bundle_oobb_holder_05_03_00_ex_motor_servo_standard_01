@@ -29,12 +29,4 @@ oobb_production_file:
     index: 4
     file_name: Bearing
     file_description: "Holder for the 6705 bearing"
-  - file_source: 3dpr/oobb_holder_05_03_00_ex_motor_servo_standard_01_all_print_3dpr.stl
-    file_render: png/oobb_holder_05_03_00_ex_motor_servo_standard_01_all_print_3dpr.png
-    file_type: 3dpr
-    file_extension: stl
-    index: all
-    file_name: All
-    file_description: "All pieces together"
-
   
